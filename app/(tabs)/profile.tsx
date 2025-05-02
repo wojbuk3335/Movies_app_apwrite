@@ -1,10 +1,10 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-export default function Index() {
+export default function Profile() {
     return (
         <View>
-            <Text>Home Screen</Text>
+            <Text>Profile Screen</Text>
         </View>
     );
 }
